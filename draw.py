@@ -1,7 +1,5 @@
 import wx
 from wx import glcanvas
-from OpenGL.GL import *
-from OpenGL.GLUT import *
 import matplotlib as plt
 plt.use('WXAgg')
 import numpy as np

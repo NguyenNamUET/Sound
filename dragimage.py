@@ -379,8 +379,6 @@ class DragCanvas(wx.ScrolledWindow):
         pass
 
 
-
-
     # Go through our list of shapes and draw them in whatever place they are.
     def DrawShapes(self, dc):
         for shape in self.shapes:
